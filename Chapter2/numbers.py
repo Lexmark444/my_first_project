@@ -1,4 +1,4 @@
-# pyhton does math and it does it right PEMDAS
+# python does math and it does it right PEMDAS
 print(2+3)
 print(3-2)
 print(2*3)
