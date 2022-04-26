@@ -18,3 +18,6 @@ print(2 * 0.2)
 
 # floor divide is A//B and it rounds down so 5//2 = 2 and not 2.5
 print(5//2)
+
+# remainder output 5%2 =1 cuz 5/2 = 2 remainder 1
+print(5%2)
