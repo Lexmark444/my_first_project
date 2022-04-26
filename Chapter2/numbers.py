@@ -15,3 +15,6 @@ print(0.1 + 0.1)
 print(0.2 + 0.2)
 print(2 * 0.1)
 print(2 * 0.2)
+
+# floor divide is A//B and it rounds down so 5//2 = 2 and not 2.5
+print(5//2)
