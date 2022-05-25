@@ -1,5 +1,3 @@
-print("Enter your age to determine the cost")
-
 age = 12
 
 if age <= 4:
@@ -7,4 +5,4 @@ if age <= 4:
 elif age < 19:
     print("Cough up $5 kid.")
 else:
-    print("You gotta pay the whoel $10.")
+    print("You gotta pay the whole $10.")
